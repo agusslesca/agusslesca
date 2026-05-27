@@ -39,11 +39,9 @@ Contáctame en: <a href="mailto:agustinlescanouni@gmail.com">agustinlescanouni@g
  [![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
 </span>  
 
-<h4>Bases de Datos</h4>
+<h4>Motores</h4>
 <span>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  [![My Skills](https://skillicons.dev/icons?i=unity,unreal)](https://skillicons.dev)
 </span>  
 
 <h4>Tecnologías</h4>
