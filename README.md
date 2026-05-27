@@ -35,7 +35,8 @@ Contáctame en: <a href="mailto:agustinlescanouni@gmail.com">agustinlescanouni@g
 <p>Lenguajes</p>
 <span> 
 
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white">
+
+ [![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
 </span>  
 
 <h4>Bases de Datos</h4>
