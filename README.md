@@ -2,8 +2,8 @@
 
 
 
-Soy estudiante de la carrera de **Tecnicatura Universitaria en Desarrollo y Producción de Videojuegos
-** en Universidad Tecnológica Nacional — Facultad Regional Buenos Aires. actualmente me encuentro a mitad de mis estudios,
+Soy estudiante de la carrera de Tecnicatura Universitaria en Desarrollo y Producción de Videojuegos
+ en Universidad Tecnológica Nacional — Facultad Regional Buenos Aires. actualmente me encuentro a mitad de mis estudios,
 me apasiona aprender y sobretodo disfrutar por el desarrollo de videojuegos.
 
 
