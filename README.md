@@ -32,25 +32,14 @@ Contáctame en: <a href="mailto:agustinlescanouni@gmail.com">agustinlescanouni@g
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 
-<p>Lenguajes</p>
+<p>Skills</p>
 <span> 
 
 
- [![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cs,cpp,unity,unreal,blender,github,visualstudio)](https://skillicons.dev)
 </span>  
 
-<h4>Motores</h4>
-<span>
-  [![My Skills](https://skillicons.dev/icons?i=unity,unreal)](https://skillicons.dev)
-</span>  
 
-<h4>Tecnologías</h4>
-<span>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</span>  
 
 <h4>Redes y Contacto</h4>
 <p>
